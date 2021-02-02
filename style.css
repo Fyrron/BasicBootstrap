@@ -1,0 +1,41 @@
+.imagem-carrossel {
+    object-fit: cover;
+    height: 500px;
+}
+
+.titulo, .modal-title, .footer {
+    font-family: 'Pacifico', cursive;
+    text-shadow: 1px 1px 1px #5E5E5E;
+}
+
+.important-color {
+    color: darkred!important;
+}
+
+.card-button, .send-button {
+    color: white;
+    background-color: darkred;
+}
+
+.card-border, .send-button {
+    border-color: darkred;
+}
+
+.card-image {
+    object-fit: cover;
+    height: 200px;
+}
+
+.card {
+    max-width: 18rem;
+}
+
+.modal-footer {
+    padding: 0;
+    border-top: 0;
+    margin-top: 20px
+}
+
+.form {
+    margin: 0;
+}
